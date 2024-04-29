@@ -1,6 +1,6 @@
 function prayerTimes(latitude, longitude) {
   fetch(
-    "http://api.aladhan.com/v1/calendar/2024/4?latitude=" +
+    "https://api.aladhan.com/v1/calendar/2024/4?latitude=" +
       latitude +
       "508515&longitude=" +
       longitude +
